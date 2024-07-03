@@ -12,6 +12,7 @@ title                    : "tvitols"
 title_separator          : "-"
 name                     : &name "Tovahn Vitols"
 description              : &description "personal website"
+baseurl                  : /
 url                      : "https://tvitols.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "tvitols/tvitols.github.io"
 
